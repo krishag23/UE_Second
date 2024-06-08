@@ -6,7 +6,7 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit.json"
+            "compileCommands": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\.vscode\\compileCommands_UnrealLearningKit.json"
         },
         {
             "name": "Win32",
@@ -14,7 +14,7 @@
             "cStandard": "c17",
             "cppStandard": "c++20",
             "intelliSenseMode": "msvc-x64",
-            "compileCommands": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_Default.json"
+            "compileCommands": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\.vscode\\compileCommands_Default.json"
         }
     ],
     "version": 4

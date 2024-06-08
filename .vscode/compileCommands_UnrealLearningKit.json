@@ -1,41 +1,41 @@
 [
 	{
-		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\Source\\UnrealLearningKit\\MyActor.cpp",
+		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\Source\\UnrealLearningKit\\MyActor.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
+			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\Source\\UnrealLearningKit\\MyActor.h",
+		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\Source\\UnrealLearningKit\\MyActor.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
+			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
+		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\Source\\UnrealLearningKit\\UnrealLearningKit.Build.cs",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
+			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.cpp",
+		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\Source\\UnrealLearningKit\\UnrealLearningKit.cpp",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
+			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	},
 	{
-		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
+		"file": "C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\Source\\UnrealLearningKit\\UnrealLearningKit.h",
 		"arguments": [
 			"C:\\Program Files\\Microsoft Visual Studio\\2022\\Community\\VC\\Tools\\MSVC\\14.37.32822\\bin\\Hostx64\\x64\\cl.exe",
-			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Projects\\UnrealLearningKit\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
+			"@C:\\Users\\Krish Agarwal\\OneDrive\\Documents\\Unreal Games\\UE_Second\\.vscode\\compileCommands_UnrealLearningKit\\UnrealLearningKit.1.rsp"
 		],
 		"directory": "C:\\Program Files\\Epic Games\\UE_5.3\\Engine\\Source"
 	}

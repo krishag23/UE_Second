@@ -33,4 +33,6 @@ public:
 	bool DestinationReached(FVector CurrentLocation) const;
 	UPROPERTY(EditAnywhere)
 	FRotator RotationSpeed = FRotator(0, 0, 0);
+	
+
 };

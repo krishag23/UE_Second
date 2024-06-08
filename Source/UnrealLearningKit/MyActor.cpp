@@ -22,8 +22,9 @@ void AMyActor::Tick(float DeltaTime)
 {
 	Super::Tick(DeltaTime);
 	Tofromotion(DeltaTime);
+	
 	// MoveDistance=DistanceMoved;
-	FRotator NewRotation=RotationSpeed*DeltaTime;
+	FRotator NewRotation = RotationSpeed * DeltaTime;
 	AddActorLocalRotation(NewRotation);
 }
 
